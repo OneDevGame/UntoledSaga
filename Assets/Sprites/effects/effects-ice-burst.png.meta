@@ -1,0 +1,2485 @@
+fileFormatVersion: 2
+guid: fec795afcdc2f984fadab0ab0be37ea7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7031096024708438762
+    second: effects-ice-burst_0
+  - first:
+      213: 8713755537702448016
+    second: effects-ice-burst_1
+  - first:
+      213: 7038610352111609012
+    second: effects-ice-burst_2
+  - first:
+      213: -8760651632449886736
+    second: effects-ice-burst_3
+  - first:
+      213: 7350677139674999065
+    second: effects-ice-burst_4
+  - first:
+      213: 4598143017776345121
+    second: effects-ice-burst_5
+  - first:
+      213: 2202196277421631539
+    second: effects-ice-burst_6
+  - first:
+      213: 7644156153812810329
+    second: effects-ice-burst_7
+  - first:
+      213: 6390425006029355948
+    second: effects-ice-burst_8
+  - first:
+      213: -437492618067560223
+    second: effects-ice-burst_9
+  - first:
+      213: -7365985675292214890
+    second: effects-ice-burst_10
+  - first:
+      213: 9200587085710574498
+    second: effects-ice-burst_11
+  - first:
+      213: 2066549889195656212
+    second: effects-ice-burst_12
+  - first:
+      213: 4685850513143545862
+    second: effects-ice-burst_13
+  - first:
+      213: 4115116998511515216
+    second: effects-ice-burst_14
+  - first:
+      213: 735679503835578041
+    second: effects-ice-burst_15
+  - first:
+      213: 7660477397117820321
+    second: effects-ice-burst_16
+  - first:
+      213: 6829100886479904887
+    second: effects-ice-burst_17
+  - first:
+      213: 1427541206324596428
+    second: effects-ice-burst_18
+  - first:
+      213: -6193338289554747905
+    second: effects-ice-burst_19
+  - first:
+      213: 3268128890383259181
+    second: effects-ice-burst_20
+  - first:
+      213: 3088125760222615056
+    second: effects-ice-burst_21
+  - first:
+      213: 1442763754462629798
+    second: effects-ice-burst_22
+  - first:
+      213: 1284939997867734967
+    second: effects-ice-burst_23
+  - first:
+      213: -3332743343355800321
+    second: effects-ice-burst_24
+  - first:
+      213: -3910665462333114790
+    second: effects-ice-burst_25
+  - first:
+      213: 7084035180990057380
+    second: effects-ice-burst_26
+  - first:
+      213: 7327703713352932534
+    second: effects-ice-burst_27
+  - first:
+      213: 3674386387572252521
+    second: effects-ice-burst_28
+  - first:
+      213: -7367923497606830097
+    second: effects-ice-burst_29
+  - first:
+      213: 7171454640850699548
+    second: effects-ice-burst_30
+  - first:
+      213: 7661032036124903614
+    second: effects-ice-burst_31
+  - first:
+      213: 7001893869658809214
+    second: effects-ice-burst_32
+  - first:
+      213: -6341517651783768725
+    second: effects-ice-burst_33
+  - first:
+      213: -5037672213018104670
+    second: effects-ice-burst_34
+  - first:
+      213: 3105574824747461032
+    second: effects-ice-burst_35
+  - first:
+      213: 7347841013067614097
+    second: effects-ice-burst_36
+  - first:
+      213: -2284613340012290892
+    second: effects-ice-burst_37
+  - first:
+      213: 2975610143707888288
+    second: effects-ice-burst_38
+  - first:
+      213: -7625565676198823805
+    second: effects-ice-burst_39
+  - first:
+      213: -4069108598776401036
+    second: effects-ice-burst_40
+  - first:
+      213: -788596680793699313
+    second: effects-ice-burst_41
+  - first:
+      213: 7988481635713840907
+    second: effects-ice-burst_42
+  - first:
+      213: 4418642457535498907
+    second: effects-ice-burst_43
+  - first:
+      213: 22008411164791259
+    second: effects-ice-burst_44
+  - first:
+      213: 543923837443728099
+    second: effects-ice-burst_45
+  - first:
+      213: 8793597075659029915
+    second: effects-ice-burst_46
+  - first:
+      213: 4928710626408516588
+    second: effects-ice-burst_47
+  - first:
+      213: 404416945728248592
+    second: effects-ice-burst_48
+  - first:
+      213: -1192079157278505066
+    second: effects-ice-burst_49
+  - first:
+      213: 3379651743527333742
+    second: effects-ice-burst_50
+  - first:
+      213: 757002176904807487
+    second: effects-ice-burst_51
+  - first:
+      213: 302371494325104922
+    second: effects-ice-burst_52
+  - first:
+      213: -7186462445979794300
+    second: effects-ice-burst_53
+  - first:
+      213: -2072081520710856837
+    second: effects-ice-burst_54
+  - first:
+      213: -6816056102076744243
+    second: effects-ice-burst_55
+  - first:
+      213: -626216770407557606
+    second: effects-ice-burst_56
+  - first:
+      213: -6829620714503441755
+    second: effects-ice-burst_57
+  - first:
+      213: -3824416345162234328
+    second: effects-ice-burst_58
+  - first:
+      213: 5854221039006412725
+    second: effects-ice-burst_59
+  - first:
+      213: -8698092630997369600
+    second: effects-ice-burst_60
+  - first:
+      213: 8727006526273310830
+    second: effects-ice-burst_61
+  - first:
+      213: 1249957796721548018
+    second: effects-ice-burst_62
+  - first:
+      213: 1147200364269125103
+    second: effects-ice-burst_63
+  - first:
+      213: -4092011867007081717
+    second: effects-ice-burst_64
+  - first:
+      213: -3003346679265943020
+    second: effects-ice-burst_65
+  - first:
+      213: -1126947697286084912
+    second: effects-ice-burst_66
+  - first:
+      213: -5234733022069631112
+    second: effects-ice-burst_67
+  - first:
+      213: 2036524811865764740
+    second: effects-ice-burst_68
+  - first:
+      213: -64228119679636034
+    second: effects-ice-burst_69
+  - first:
+      213: -5511815024402934136
+    second: effects-ice-burst_70
+  - first:
+      213: 6246294336228841931
+    second: effects-ice-burst_71
+  - first:
+      213: -2767891137147859555
+    second: effects-ice-burst_72
+  - first:
+      213: -7728362369143707612
+    second: effects-ice-burst_73
+  - first:
+      213: -6701705689758801456
+    second: effects-ice-burst_74
+  - first:
+      213: -7975445337541731194
+    second: effects-ice-burst_75
+  - first:
+      213: 9109733428107000772
+    second: effects-ice-burst_76
+  - first:
+      213: -1426154715917190030
+    second: effects-ice-burst_77
+  - first:
+      213: -5540571984823746842
+    second: effects-ice-burst_78
+  - first:
+      213: -3333476483376786699
+    second: effects-ice-burst_79
+  - first:
+      213: -5300662170097410485
+    second: effects-ice-burst_80
+  - first:
+      213: 3607369819223254598
+    second: effects-ice-burst_81
+  - first:
+      213: -5902194650787494602
+    second: effects-ice-burst_82
+  - first:
+      213: 1645815377497168394
+    second: effects-ice-burst_83
+  - first:
+      213: -4567025458710806411
+    second: effects-ice-burst_84
+  - first:
+      213: -296860620201324163
+    second: effects-ice-burst_85
+  - first:
+      213: 5113142633897822227
+    second: effects-ice-burst_86
+  - first:
+      213: -7590226900815596501
+    second: effects-ice-burst_87
+  - first:
+      213: 8787165801715436077
+    second: effects-ice-burst_88
+  - first:
+      213: -1848371314050695546
+    second: effects-ice-burst_89
+  - first:
+      213: -2355520170910834077
+    second: effects-ice-burst_90
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: effects-ice-burst_0
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 27
+        width: 371
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 615a799fa678c6e90800000000000000
+      internalID: -7031096024708438762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effects-ice-burst_1
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 326
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09be85c7e7a7de870800000000000000
+      internalID: 8713755537702448016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effects-ice-burst_2
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 3
+        width: 370
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b4eff5b2da2ea160800000000000000
+      internalID: 7038610352111609012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effects-ice-burst_3
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 319
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5e0e691c9eb6680800000000000000
+      internalID: -8760651632449886736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effects-ice-burst_4
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 207
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 919a9e8b9e9d20660800000000000000
+      internalID: 7350677139674999065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effects-ice-burst_5
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 252
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 120700176b2efcf30800000000000000
+      internalID: 4598143017776345121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effects-ice-burst_6
+      rect:
+        serializedVersion: 2
+        x: 2123
+        y: 263
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3386769b8d5cf8e10800000000000000
+      internalID: 2202196277421631539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effects-ice-burst_7
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 256
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95af0ab758f751a60800000000000000
+      internalID: 7644156153812810329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effects-ice-burst_8
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 213
+        width: 16
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cab37206fa95fa850800000000000000
+      internalID: 6390425006029355948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effects-ice-burst_9
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 207
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e83a3428c6bde9f0800000000000000
+      internalID: -437492618067560223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effects-ice-burst_10
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 212
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69977931e03c6c990800000000000000
+      internalID: -7365985675292214890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effects-ice-burst_11
+      rect:
+        serializedVersion: 2
+        x: 2102
+        y: 250
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a343d8253d0faf70800000000000000
+      internalID: 9200587085710574498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effects-ice-burst_12
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 248
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4144128dc2cddac10800000000000000
+      internalID: 2066549889195656212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effects-ice-burst_13
+      rect:
+        serializedVersion: 2
+        x: 2142
+        y: 245
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 600c08a073c770140800000000000000
+      internalID: 4685850513143545862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effects-ice-burst_14
+      rect:
+        serializedVersion: 2
+        x: 2167
+        y: 244
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05653797b15db1930800000000000000
+      internalID: 4115116998511515216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effects-ice-burst_15
+      rect:
+        serializedVersion: 2
+        x: 2187
+        y: 251
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9beb7a66c98a53a00800000000000000
+      internalID: 735679503835578041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effects-ice-burst_16
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 239
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1addd111b9b7f4a60800000000000000
+      internalID: 7660477397117820321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effects-ice-burst_17
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 241
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 770a0f9f217d5ce50800000000000000
+      internalID: 6829100886479904887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effects-ice-burst_18
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 209
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccec539e925afc310800000000000000
+      internalID: 1427541206324596428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effects-ice-burst_19
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 216
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd834da3a7dc0aa0800000000000000
+      internalID: -6193338289554747905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effects-ice-burst_20
+      rect:
+        serializedVersion: 2
+        x: 2081
+        y: 115
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d265c7719e9ba5d20800000000000000
+      internalID: 3268128890383259181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effects-ice-burst_21
+      rect:
+        serializedVersion: 2
+        x: 2101
+        y: 239
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0165dcf640a3bda20800000000000000
+      internalID: 3088125760222615056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effects-ice-burst_22
+      rect:
+        serializedVersion: 2
+        x: 2154
+        y: 235
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6afcd879df9b50410800000000000000
+      internalID: 1442763754462629798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effects-ice-burst_23
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 204
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b7f892ce1605d110800000000000000
+      internalID: 1284939997867734967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effects-ice-burst_24
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 229
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff4dabb3697bfb1d0800000000000000
+      internalID: -3332743343355800321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effects-ice-burst_25
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 233
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a56fe3a4b768ab9c0800000000000000
+      internalID: -3910665462333114790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effects-ice-burst_26
+      rect:
+        serializedVersion: 2
+        x: 2210
+        y: 234
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab484bd67c8f4260800000000000000
+      internalID: 7084035180990057380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effects-ice-burst_27
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 196
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bc56b514bb31b560800000000000000
+      internalID: 7327703713352932534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effects-ice-burst_28
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 216
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96f56c6a3fa0ef230800000000000000
+      internalID: 3674386387572252521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effects-ice-burst_29
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 192
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe724e8ad90efb990800000000000000
+      internalID: -7367923497606830097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effects-ice-burst_30
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 212
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c158bb6ffff168360800000000000000
+      internalID: 7171454640850699548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effects-ice-burst_31
+      rect:
+        serializedVersion: 2
+        x: 2072
+        y: 213
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8cc160c04715a60800000000000000
+      internalID: 7661032036124903614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effects-ice-burst_32
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 214
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e73aff77069bb2160800000000000000
+      internalID: 7001893869658809214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effects-ice-burst_33
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 194
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b652f846b476ef7a0800000000000000
+      internalID: -6341517651783768725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effects-ice-burst_34
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 190
+        width: 43
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac233020d7961ab0800000000000000
+      internalID: -5037672213018104670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effects-ice-burst_35
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 184
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a9e77c59d7391b20800000000000000
+      internalID: 3105574824747461032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effects-ice-burst_36
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 179
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19701f98876c8f560800000000000000
+      internalID: 7347841013067614097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effects-ice-burst_37
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 178
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bcd27b854c6b40e0800000000000000
+      internalID: -2284613340012290892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effects-ice-burst_38
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 183
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aaf1c509ad7b4920800000000000000
+      internalID: 2975610143707888288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effects-ice-burst_39
+      rect:
+        serializedVersion: 2
+        x: 2062
+        y: 195
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 388f1c26b6c8c2690800000000000000
+      internalID: -7625565676198823805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effects-ice-burst_40
+      rect:
+        serializedVersion: 2
+        x: 2078
+        y: 193
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473f179d94f9787c0800000000000000
+      internalID: -4069108598776401036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effects-ice-burst_41
+      rect:
+        serializedVersion: 2
+        x: 2205
+        y: 198
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c4d3a3f775e05f0800000000000000
+      internalID: -788596680793699313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effects-ice-burst_42
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 190
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b07747f09b9ccde60800000000000000
+      internalID: 7988481635713840907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effects-ice-burst_43
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 188
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9accd677eb225d30800000000000000
+      internalID: 4418642457535498907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effects-ice-burst_44
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 168
+        width: 44
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd15c8988803e4000800000000000000
+      internalID: 22008411164791259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effects-ice-burst_45
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 174
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e263bb29d76c8700800000000000000
+      internalID: 543923837443728099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effects-ice-burst_46
+      rect:
+        serializedVersion: 2
+        x: 2209
+        y: 187
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9df19823f1290a70800000000000000
+      internalID: 8793597075659029915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effects-ice-burst_47
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 162
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cebc5c7833c466440800000000000000
+      internalID: 4928710626408516588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effects-ice-burst_48
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 156
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01bd747c117cc9500800000000000000
+      internalID: 404416945728248592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effects-ice-burst_49
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 156
+        width: 44
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69784468252e47fe0800000000000000
+      internalID: -1192079157278505066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effects-ice-burst_50
+      rect:
+        serializedVersion: 2
+        x: 2072
+        y: 175
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6fe975ca5fe6ee20800000000000000
+      internalID: 3379651743527333742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effects-ice-burst_51
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 139
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f34cb981879618a00800000000000000
+      internalID: 757002176904807487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effects-ice-burst_52
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 147
+        width: 42
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a11b375a54d323400800000000000000
+      internalID: 302371494325104922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effects-ice-burst_53
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 153
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48480bb1b7e844c90800000000000000
+      internalID: -7186462445979794300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effects-ice-burst_54
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 152
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7fc064d5dc7e33e0800000000000000
+      internalID: -2072081520710856837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effects-ice-burst_55
+      rect:
+        serializedVersion: 2
+        x: 2055
+        y: 167
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcdf49296118861a0800000000000000
+      internalID: -6816056102076744243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effects-ice-burst_56
+      rect:
+        serializedVersion: 2
+        x: 2211
+        y: 163
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1617774a2b3f47f0800000000000000
+      internalID: -626216770407557606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effects-ice-burst_57
+      rect:
+        serializedVersion: 2
+        x: 2066
+        y: 159
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a27f5125205831a0800000000000000
+      internalID: -6829620714503441755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effects-ice-burst_58
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 159
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8264861c891fceac0800000000000000
+      internalID: -3824416345162234328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effects-ice-burst_59
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 115
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf689a940f5e3150800000000000000
+      internalID: 5854221039006412725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effects-ice-burst_60
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 140
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00d75f926da2a4780800000000000000
+      internalID: -8698092630997369600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effects-ice-burst_61
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 147
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e60590fa23e8c1970800000000000000
+      internalID: 8727006526273310830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effects-ice-burst_62
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 112
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa51d95efdb85110800000000000000
+      internalID: 1249957796721548018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effects-ice-burst_63
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 105
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fedb57637acabef00800000000000000
+      internalID: 1147200364269125103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effects-ice-burst_64
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 139
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b032c5a23e04637c0800000000000000
+      internalID: -4092011867007081717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effects-ice-burst_65
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 127
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 412210d8b18f156d0800000000000000
+      internalID: -3003346679265943020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effects-ice-burst_66
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 131
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d681d64a074c50f0800000000000000
+      internalID: -1126947697286084912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effects-ice-burst_67
+      rect:
+        serializedVersion: 2
+        x: 2050
+        y: 147
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 877588d1d0e7a57b0800000000000000
+      internalID: -5234733022069631112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effects-ice-burst_68
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 142
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4833783c680334c10800000000000000
+      internalID: 2036524811865764740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effects-ice-burst_69
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 148
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebd67ed8dd0db1ff0800000000000000
+      internalID: -64228119679636034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effects-ice-burst_70
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 91
+        width: 31
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8865dca20791283b0800000000000000
+      internalID: -5511815024402934136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effects-ice-burst_71
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 107
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc95471ca9b4fa650800000000000000
+      internalID: 6246294336228841931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effects-ice-burst_72
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 130
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9d8959fca97699d0800000000000000
+      internalID: -2767891137147859555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effects-ice-burst_73
+      rect:
+        serializedVersion: 2
+        x: 2203
+        y: 133
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42861b33f575fb490800000000000000
+      internalID: -7728362369143707612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effects-ice-burst_74
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 110
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d166bcae22cef2a0800000000000000
+      internalID: -6701705689758801456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effects-ice-burst_75
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 113
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68c9742a8b6815190800000000000000
+      internalID: -7975445337541731194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effects-ice-burst_76
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 88
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cbb1d499464c6e70800000000000000
+      internalID: 9109733428107000772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effects-ice-burst_77
+      rect:
+        serializedVersion: 2
+        x: 2069
+        y: 118
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27cf10b87d7453ce0800000000000000
+      internalID: -1426154715917190030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effects-ice-burst_78
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 113
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ee7910922feb13b0800000000000000
+      internalID: -5540571984823746842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effects-ice-burst_79
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 106
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f25535cccc1db1d0800000000000000
+      internalID: -3333476483376786699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effects-ice-burst_80
+      rect:
+        serializedVersion: 2
+        x: 2101
+        y: 102
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e1ef427d34076b0800000000000000
+      internalID: -5300662170097410485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effects-ice-burst_81
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 108
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6466448ecb3ff0230800000000000000
+      internalID: 3607369819223254598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effects-ice-burst_82
+      rect:
+        serializedVersion: 2
+        x: 2181
+        y: 103
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 635c99c7c31371ea0800000000000000
+      internalID: -5902194650787494602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effects-ice-burst_83
+      rect:
+        serializedVersion: 2
+        x: 2201
+        y: 107
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a189dad5c17d610800000000000000
+      internalID: 1645815377497168394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effects-ice-burst_84
+      rect:
+        serializedVersion: 2
+        x: 2122
+        y: 97
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 570806dda8aae90c0800000000000000
+      internalID: -4567025458710806411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effects-ice-burst_85
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 99
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d711919b6d651ebf0800000000000000
+      internalID: -296860620201324163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effects-ice-burst_86
+      rect:
+        serializedVersion: 2
+        x: 2163
+        y: 100
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 318826b822885f640800000000000000
+      internalID: 5113142633897822227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effects-ice-burst_87
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 77
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b24b54439d81aa690800000000000000
+      internalID: -7590226900815596501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effects-ice-burst_88
+      rect:
+        serializedVersion: 2
+        x: 2137
+        y: 82
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a85b18db842f970800000000000000
+      internalID: 8787165801715436077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effects-ice-burst_89
+      rect:
+        serializedVersion: 2
+        x: 2166
+        y: 83
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e7cfc35144956e0800000000000000
+      internalID: -1848371314050695546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effects-ice-burst_90
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 21
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 362a79772e28f4fd0800000000000000
+      internalID: -2355520170910834077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      effects-ice-burst_0: -7031096024708438762
+      effects-ice-burst_1: 8713755537702448016
+      effects-ice-burst_10: -7365985675292214890
+      effects-ice-burst_11: 9200587085710574498
+      effects-ice-burst_12: 2066549889195656212
+      effects-ice-burst_13: 4685850513143545862
+      effects-ice-burst_14: 4115116998511515216
+      effects-ice-burst_15: 735679503835578041
+      effects-ice-burst_16: 7660477397117820321
+      effects-ice-burst_17: 6829100886479904887
+      effects-ice-burst_18: 1427541206324596428
+      effects-ice-burst_19: -6193338289554747905
+      effects-ice-burst_2: 7038610352111609012
+      effects-ice-burst_20: 3268128890383259181
+      effects-ice-burst_21: 3088125760222615056
+      effects-ice-burst_22: 1442763754462629798
+      effects-ice-burst_23: 1284939997867734967
+      effects-ice-burst_24: -3332743343355800321
+      effects-ice-burst_25: -3910665462333114790
+      effects-ice-burst_26: 7084035180990057380
+      effects-ice-burst_27: 7327703713352932534
+      effects-ice-burst_28: 3674386387572252521
+      effects-ice-burst_29: -7367923497606830097
+      effects-ice-burst_3: -8760651632449886736
+      effects-ice-burst_30: 7171454640850699548
+      effects-ice-burst_31: 7661032036124903614
+      effects-ice-burst_32: 7001893869658809214
+      effects-ice-burst_33: -6341517651783768725
+      effects-ice-burst_34: -5037672213018104670
+      effects-ice-burst_35: 3105574824747461032
+      effects-ice-burst_36: 7347841013067614097
+      effects-ice-burst_37: -2284613340012290892
+      effects-ice-burst_38: 2975610143707888288
+      effects-ice-burst_39: -7625565676198823805
+      effects-ice-burst_4: 7350677139674999065
+      effects-ice-burst_40: -4069108598776401036
+      effects-ice-burst_41: -788596680793699313
+      effects-ice-burst_42: 7988481635713840907
+      effects-ice-burst_43: 4418642457535498907
+      effects-ice-burst_44: 22008411164791259
+      effects-ice-burst_45: 543923837443728099
+      effects-ice-burst_46: 8793597075659029915
+      effects-ice-burst_47: 4928710626408516588
+      effects-ice-burst_48: 404416945728248592
+      effects-ice-burst_49: -1192079157278505066
+      effects-ice-burst_5: 4598143017776345121
+      effects-ice-burst_50: 3379651743527333742
+      effects-ice-burst_51: 757002176904807487
+      effects-ice-burst_52: 302371494325104922
+      effects-ice-burst_53: -7186462445979794300
+      effects-ice-burst_54: -2072081520710856837
+      effects-ice-burst_55: -6816056102076744243
+      effects-ice-burst_56: -626216770407557606
+      effects-ice-burst_57: -6829620714503441755
+      effects-ice-burst_58: -3824416345162234328
+      effects-ice-burst_59: 5854221039006412725
+      effects-ice-burst_6: 2202196277421631539
+      effects-ice-burst_60: -8698092630997369600
+      effects-ice-burst_61: 8727006526273310830
+      effects-ice-burst_62: 1249957796721548018
+      effects-ice-burst_63: 1147200364269125103
+      effects-ice-burst_64: -4092011867007081717
+      effects-ice-burst_65: -3003346679265943020
+      effects-ice-burst_66: -1126947697286084912
+      effects-ice-burst_67: -5234733022069631112
+      effects-ice-burst_68: 2036524811865764740
+      effects-ice-burst_69: -64228119679636034
+      effects-ice-burst_7: 7644156153812810329
+      effects-ice-burst_70: -5511815024402934136
+      effects-ice-burst_71: 6246294336228841931
+      effects-ice-burst_72: -2767891137147859555
+      effects-ice-burst_73: -7728362369143707612
+      effects-ice-burst_74: -6701705689758801456
+      effects-ice-burst_75: -7975445337541731194
+      effects-ice-burst_76: 9109733428107000772
+      effects-ice-burst_77: -1426154715917190030
+      effects-ice-burst_78: -5540571984823746842
+      effects-ice-burst_79: -3333476483376786699
+      effects-ice-burst_8: 6390425006029355948
+      effects-ice-burst_80: -5300662170097410485
+      effects-ice-burst_81: 3607369819223254598
+      effects-ice-burst_82: -5902194650787494602
+      effects-ice-burst_83: 1645815377497168394
+      effects-ice-burst_84: -4567025458710806411
+      effects-ice-burst_85: -296860620201324163
+      effects-ice-burst_86: 5113142633897822227
+      effects-ice-burst_87: -7590226900815596501
+      effects-ice-burst_88: 8787165801715436077
+      effects-ice-burst_89: -1848371314050695546
+      effects-ice-burst_9: -437492618067560223
+      effects-ice-burst_90: -2355520170910834077
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

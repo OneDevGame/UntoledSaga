@@ -12,7 +12,7 @@ public class HealthBar : MonoBehaviour
         // 1. Dunkler Hintergrund-Balken
         GameObject bg = new GameObject("HP_Background");
         bg.transform.SetParent(transform);
-        bg.transform.localPosition = new Vector3(0, 0.8f, 0); // Über der Figur
+        bg.transform.localPosition = new Vector3(0, 1.15f, 0); // Über der Figur
         bg.transform.localScale = new Vector3(1.2f, 0.18f, 1f);
         var bgRenderer = bg.AddComponent<SpriteRenderer>();
         bgRenderer.sprite = CreateWhiteSprite();

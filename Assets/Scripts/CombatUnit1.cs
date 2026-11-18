@@ -9,14 +9,15 @@ public class CombatUnit : MonoBehaviour
 
     private BattleManager battleManager;
     private HealthBar healthBar;
+    private Animator animator;
 
     public void Initialize(BattleManager manager)
     {
         battleManager = manager;
+        animator = GetComponent<Animator>(); // Holt sich deinen visuellen Animator
         if (data == null) return;
         currentHealth = data.maxHealth;
 
-        // Lebensbalken automatisch hinzufügen und einrichten
         healthBar = gameObject.AddComponent<HealthBar>();
         healthBar.Setup(data.maxHealth);
 
@@ -45,8 +46,15 @@ public class CombatUnit : MonoBehaviour
 
         if (IsDead())
         {
+            // Spielt die Sterbe-Animation ab und färbt die Figur leicht grau
+            if (animator != null) animator.SetTrigger("Death");
             var sr = GetComponent<SpriteRenderer>();
-            if (sr != null) sr.color = new Color(0.3f, 0.3f, 0.3f, 0.4f);
+            if (sr != null) sr.color = new Color(0.5f, 0.5f, 0.5f, 0.7f);
+        }
+        else
+        {
+            // Spielt die Hurt-Animation (oder deine Ausweichrolle beim Helden) ab
+            if (animator != null) animator.SetTrigger("Hurt");
         }
     }
 

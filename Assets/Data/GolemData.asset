@@ -10,12 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: c68bc7a9eb5ac6440a656c7b1a3f7731, type: 3}
-  m_Name: RitterData
+  m_Name: GolemData
   m_EditorClassIdentifier: Assembly-CSharp::UnitData
-  unitName: Ritter
-  unitColor: {r: 0.058417518, g: 0, b: 0.97735846, a: 1}
-  portrait: {fileID: 0}
-  maxHealth: 100
-  attackDamage: 35
-  initiative: 12
-  isRangedOrMagic: 0
+  unitName: Moss-Golem
+  unitColor: {r: 1, g: 1, b: 1, a: 1}
+  portrait: {fileID: -3079895519671917197, guid: 08c0d495c481de6499ff8e50c55e77d1, type: 3}
+  maxHealth: 80
+  attackDamage: 20
+  initiative: 8
+  canAttackBackRow: 0

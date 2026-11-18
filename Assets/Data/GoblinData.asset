@@ -10,12 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: c68bc7a9eb5ac6440a656c7b1a3f7731, type: 3}
-  m_Name: SkelettData
+  m_Name: GoblinData
   m_EditorClassIdentifier: Assembly-CSharp::UnitData
-  unitName: Skelett
-  unitColor: {r: 0.98490566, g: 0.005574857, b: 0.005574857, a: 1}
-  portrait: {fileID: 0}
-  maxHealth: 80
-  attackDamage: 20
-  initiative: 8
-  isRangedOrMagic: 0
+  unitName: "Goblin-Sch\xFCtze"
+  unitColor: {r: 1, g: 1, b: 1, a: 1}
+  portrait: {fileID: -3041552050115924206, guid: 888b3f4b0b07fe940b323a41aaf2aa2a, type: 3}
+  maxHealth: 60
+  attackDamage: 22
+  initiative: 14
+  canAttackBackRow: 1

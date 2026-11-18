@@ -1,8 +1,9 @@
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
 
-public enum BattleState { Start, PlayerTurn, EnemyTurn, Won, Lost }
+public enum BattleState { Start, PlayerTurn, EnemyTurn, Busy, Won, Lost }
 
 public class BattleManager : MonoBehaviour
 {
@@ -55,20 +56,18 @@ public class BattleManager : MonoBehaviour
         else
         {
             state = BattleState.EnemyTurn;
-            ExecuteEnemyAI();
+            StartCoroutine(ExecuteEnemyAI());
         }
     }
 
     public void OnUnitClicked(CombatUnit clickedUnit)
     {
         if (state != BattleState.PlayerTurn) return;
-        if (clickedUnit.isPlayerTeam) return; // Eigene Einheiten nicht angreifen
+        if (clickedUnit.isPlayerTeam) return;
 
         if (CanAttackTarget(activeUnit, clickedUnit))
         {
-            Debug.Log($"{activeUnit.data.unitName} greift {clickedUnit.data.unitName} an!");
-            clickedUnit.TakeDamage(activeUnit.data.attackDamage);
-            CheckBattleEnd();
+            StartCoroutine(PerformAttack(activeUnit, clickedUnit));
         }
         else
         {
@@ -76,18 +75,48 @@ public class BattleManager : MonoBehaviour
         }
     }
 
+    // Führt den Angriff aus: Ausfallschritt nach vorne + Attack-Trigger + Treffer
+    IEnumerator PerformAttack(CombatUnit attacker, CombatUnit target)
+    {
+        state = BattleState.Busy;
+
+        Vector3 startPos = attacker.transform.position;
+        float direction = attacker.isPlayerTeam ? 0.6f : -0.6f; // Held springt nach rechts, Gegner nach links
+        Vector3 attackPos = startPos + new Vector3(direction, 0, 0);
+
+        // 1. Kleiner Sprung nach vorne & Angriffs-Animation starten (falls vorhanden)
+        attacker.transform.position = attackPos;
+        var anim = attacker.GetComponent<Animator>();
+        if (anim != null) anim.SetTrigger("Attack");
+
+        Debug.Log($"{attacker.data.unitName} greift {target.data.unitName} an!");
+        yield return new WaitForSeconds(0.35f);
+
+        // 2. Schaden zufügen (löst beim Ziel automatisch Hurt oder Death aus)
+        target.TakeDamage(attacker.data.attackDamage);
+
+        yield return new WaitForSeconds(0.35f);
+
+        // 3. Zurück auf die Ausgangsposition springen
+        attacker.transform.position = startPos;
+        yield return new WaitForSeconds(0.2f);
+
+        CheckBattleEnd();
+    }
+
     bool CanAttackTarget(CombatUnit attacker, CombatUnit target)
     {
-        if (attacker.data.canAttackBackRow) return true; // Fernkämpfer dürfen immer angreifen
-        if (target.isFrontRow) return true; // Vordere Reihe ist immer angreifbar
+        if (attacker.data.canAttackBackRow) return true;
+        if (target.isFrontRow) return true;
 
-        // Prüfen, ob im Team des Ziels noch jemand in der vorderen Reihe lebt
         bool frontRowAlive = allUnits.Any(u => u.isPlayerTeam == target.isPlayerTeam && u.isFrontRow && !u.IsDead());
         return !frontRowAlive;
     }
 
-    void ExecuteEnemyAI()
+    IEnumerator ExecuteEnemyAI()
     {
+        yield return new WaitForSeconds(0.5f);
+
         var validTargets = allUnits
             .Where(u => u.isPlayerTeam && !u.IsDead() && CanAttackTarget(activeUnit, u))
             .ToList();
@@ -95,10 +124,12 @@ public class BattleManager : MonoBehaviour
         if (validTargets.Count > 0)
         {
             CombatUnit target = validTargets[Random.Range(0, validTargets.Count)];
-            Debug.Log($"GEGNER: {activeUnit.data.unitName} greift {target.data.unitName} an!");
-            target.TakeDamage(activeUnit.data.attackDamage);
+            yield return StartCoroutine(PerformAttack(activeUnit, target));
         }
-        CheckBattleEnd();
+        else
+        {
+            CheckBattleEnd();
+        }
     }
 
     public void CheckBattleEnd()
