@@ -9,11 +9,23 @@ public class HealthBar : MonoBehaviour
     {
         maxHp = maxHealth;
 
+        // Berechnet automatisch die exakte Höhe über dem Kopf der Figur
+        float heightOffset = 1.15f;
+        var sr = GetComponent<SpriteRenderer>();
+        if (sr != null && sr.sprite != null)
+        {
+            heightOffset = sr.sprite.bounds.max.y + 0.25f;
+        }
+
         // 1. Dunkler Hintergrund-Balken
         GameObject bg = new GameObject("HP_Background");
         bg.transform.SetParent(transform);
-        bg.transform.localPosition = new Vector3(0, 1.15f, 0); // Über der Figur
-        bg.transform.localScale = new Vector3(1.2f, 0.18f, 1f);
+        bg.transform.localPosition = new Vector3(0, heightOffset, 0);
+
+        float parentScaleX = Mathf.Max(0.01f, Mathf.Abs(transform.localScale.x));
+        float parentScaleY = Mathf.Max(0.01f, Mathf.Abs(transform.localScale.y));
+        bg.transform.localScale = new Vector3(1.2f / parentScaleX, 0.18f / parentScaleY, 1f);
+
         var bgRenderer = bg.AddComponent<SpriteRenderer>();
         bgRenderer.sprite = CreateWhiteSprite();
         bgRenderer.color = new Color(0.15f, 0.15f, 0.15f, 0.9f);
@@ -38,17 +50,14 @@ public class HealthBar : MonoBehaviour
 
         float ratio = Mathf.Clamp01((float)currentHealth / maxHp);
         fillBar.localScale = new Vector3(ratio, 1f, 1f);
-        // Verschiebt den Balken nach links, damit er von rechts nach links schrumpft
         fillBar.localPosition = new Vector3(-(1f - ratio) * 0.5f, 0, -0.1f);
 
-        // Farbe wechselt bei niedrigem Leben auf Gelb/Rot
         var sr = fillBar.GetComponent<SpriteRenderer>();
         if (ratio > 0.5f) sr.color = Color.green;
         else if (ratio > 0.25f) sr.color = Color.yellow;
         else sr.color = Color.red;
     }
 
-    // Erzeugt per Code eine weiße 1x1-Pixel-Textur (keine Bilddatei nötig)
     private Sprite CreateWhiteSprite()
     {
         Texture2D tex = new Texture2D(1, 1);

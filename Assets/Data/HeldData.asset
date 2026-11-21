@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::UnitData
   unitName: Held
   unitColor: {r: 1, g: 1, b: 1, a: 1}
-  portrait: {fileID: 7632569766714492155, guid: 2fe5f8667e86b7d46b24251785a2f531, type: 3}
+  portrait: {fileID: -431083660631733099, guid: 2e0a40d266a96fc4c83246076c102d66, type: 3}
   maxHealth: 200
   attackDamage: 50
   initiative: 12

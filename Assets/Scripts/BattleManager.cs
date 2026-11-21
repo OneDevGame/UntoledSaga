@@ -89,6 +89,9 @@ public class BattleManager : MonoBehaviour
         var anim = attacker.GetComponent<Animator>();
         if (anim != null) anim.SetTrigger("Attack");
 
+        var boneAnim = attacker.GetComponent<DwarfBoneAnimator>();
+        if (boneAnim != null) boneAnim.PlayAttackSwing();
+
         Debug.Log($"{attacker.data.unitName} greift {target.data.unitName} an!");
         yield return new WaitForSeconds(0.35f);
 

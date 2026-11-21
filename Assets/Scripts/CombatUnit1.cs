@@ -53,9 +53,14 @@ public class CombatUnit : MonoBehaviour
         }
         else
         {
-            // Spielt die Hurt-Animation (oder deine Ausweichrolle beim Helden) ab
+            // Spielt die Hurt-Animation ab
             if (animator != null) animator.SetTrigger("Hurt");
+
+            // Lässt den Zwerg seinen Schild zur Abwehr nach vorne ziehen!
+            var boneAnim = GetComponent<DwarfBoneAnimator>();
+            if (boneAnim != null) boneAnim.PlayShieldBlock();
         }
+
     }
 
     public bool IsDead() => currentHealth <= 0;
